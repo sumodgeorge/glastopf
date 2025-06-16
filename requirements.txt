@@ -5,7 +5,7 @@ lxml
 sqlalchemy>=0.8.0
 jinja2
 beautifulsoup>=3.2.0
-requests>=2.20.0
+requests>=2.32.4
 cssselect>=0.7.0
 pymongo>=2.4
 MySQL-python
